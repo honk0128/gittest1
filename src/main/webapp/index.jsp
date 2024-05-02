@@ -11,7 +11,7 @@
   <div style="margin: 50px;">
       <h1>깃 테스트</h1>
       <ol>
-          <li>별명 그딴거 없다.</li>
+          <li>별명: 그런거 모르겠습니다</li>
   </div> 
 </body>
 </html>
